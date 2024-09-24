@@ -1,0 +1,17 @@
+
+LINEAR:o(n)
+BINARY SEARCH:o(log(n)) //applicable on sorted array
+merge:o(n*log(n))
+quick:o(n*log(n))
+-merge and quick sort are using "dived and conquer techique"
+-which is the among best 2 quick sort or merge sort?
+
+1.introduction (what,why)
+2.Application of python
+
+3.data types
+4.loops
+5.if else
+6.how to break loops
+7.function
+8.recurssions
